@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 Working on: Frontend development and Python backend<br>🤝 Collaborating on: Beginner-friendly frontend & simple full-stack projects<br>🌱 Learning: HTML, CSS, JavaScript, and Python<br>💬 Ask me about: HTML, CSS (Flexbox & Grid), basic Python<br>⚡ Fun fact: I love building clean web pages from simple ideas
 
 
